@@ -8,17 +8,10 @@ import Image7 from "../../assets/testimonial7.jpg";
 
 export const Data = [
 
-  {
-    id: 1,
-    image: Image1,
-    title: "Rabita Junhai",
-    who: "Co-worker",
-    description: 
-    " Ysour dedication and attention to detail are impressive. You consistently deliver high-quality work and your commitment to each project truly sets a standard for excellence. "
-  },
+  
 
   {
-    id: 2,
+    id: 1,
     image: Image2,
     title: "Aminul Islam Sarker",
     who: "Teammember",
@@ -27,7 +20,7 @@ export const Data = [
   },
 
   {
-    id: 3,
+    id: 2,
     image: Image3,
     title: "Rakibul Hasan",
     who: "Team member",
@@ -35,7 +28,7 @@ export const Data = [
     " By always going the extra mile, you set a high standard of excellence that is truly commendable "
   },
   {
-    id: 4,
+    id: 3,
     image: Image4,
     title: "Hasibuzzaman Tonmoy",
     who: "Supervisor: 2021-2022",
@@ -44,7 +37,7 @@ export const Data = [
   },
 
   {
-    id: 5,
+    id: 4,
     image: Image5,
     title: "Anson Richardson",
     who: "Manager: 2022",
@@ -53,7 +46,7 @@ export const Data = [
   },
 
   {
-    id: 6,
+    id: 5,
     image: Image6,
     title: "Brian Rocha",
     who: "Supervisor: 2021- 2022",
@@ -62,7 +55,7 @@ export const Data = [
   },
 
   {
-    id: 7,
+    id: 6,
     image: Image7,
     title: "Sutopa Suhrid",
     who: "Co-worker",
